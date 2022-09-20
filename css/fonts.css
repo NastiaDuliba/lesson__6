@@ -4,7 +4,7 @@
   font-family: "Ghostphobia";
   src: url("../fonts/Ghostphobia/Ghostphobia.woff2") format("woff2"),
     url("../fonts/Ghostphobia/Ghostphobia.woff") format("woff");
-  font-weight: 400px;
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
