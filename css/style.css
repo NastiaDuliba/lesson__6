@@ -1,0 +1,216 @@
+.header__container {
+}
+._container {
+}
+.head__title {
+  text-align: center;
+  font-family: "Ghostphobia", sans-serif;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  padding: 30px;
+}
+#header {
+  background-color: rgb(66, 111, 22);
+  margin: 50px auto;
+  max-width: 200px;
+  min-height: 100px;
+  border-radius: 50%;
+  box-shadow: 6px 6px rgba(21, 3, 3, 0.6), 12px 12px rgb(122, 180, 64);
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+.arcticle__container {
+  color: #1e212c;
+}
+._container {
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.arcticle__header {
+}
+.arcticle-header__title {
+  font-weight: 900;
+  font-size: 46px;
+  line-height: 130%;
+  margin-bottom: 92px;
+}
+.arcticle-header__img {
+  margin-bottom: 60px;
+}
+.arcticle-header__img img {
+  width: 100%;
+}
+.arcticle__description-text {
+  margin: 0 0 24px 0;
+}
+.description-text {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 150%;
+}
+.arcticle__text-block {
+}
+.arcticle-text__2,
+.arcticle-text__1 {
+  font-size: 16px;
+  line-height: 160%;
+}
+.arcticle-text__1 {
+  margin: 0 0 30px 0;
+}
+.arcticle-text__2 {
+  margin: 0 0 48px 0;
+}
+.quotation-text {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 150%;
+  margin: 0 0 48px 58px;
+}
+.description__list {
+  margin: 0 0 24px 0;
+}
+.list-description {
+  font-size: 16px;
+  line-height: 160%;
+}
+.list {
+  font-size: 16px;
+  line-height: 160%;
+}
+.list__items {
+  margin: 0 0 24px 0;
+}
+.item {
+  margin: 0 0 4px 32px;
+}
+.item:last-child {
+  margin: 0 0 0 32px;
+}
+.article-block__footer {
+  margin: 0 0 215px 0;
+}
+.arcticle-footer {
+  font-size: 16px;
+  line-height: 160%;
+}
+
+.homework {
+}
+.homework__outline {
+  background-color: #1e212c;
+  padding: 20px;
+  outline: 10px solid yellow;
+  margin: 0 0 50px 0;
+}
+
+.homework-border__1 {
+  background-color: rgb(68, 40, 95);
+  color: aqua;
+  padding: 20px;
+  border: 5px solid #263f9b;
+  margin: 10px 10px;
+}
+.homework-border__2 {
+  background-color: rgb(68, 40, 95);
+  color: aqua;
+  padding: 20px;
+  border-top: 5px solid #1e2c21;
+  border-right: 6px dotted #4cb162;
+  border-bottom: 5px double blue;
+  border-left: 6px dashed orange;
+  margin: 10px 10px;
+}
+.homework-border__3 {
+  background-color: rgb(68, 40, 95);
+  color: aqua;
+  padding: 20px;
+  margin: 10px 10px;
+  border: 5px dashed yellow;
+  border-top: none;
+}
+.homework__radius {
+}
+.homework-radius__1 {
+  background-color: rgb(68, 40, 95);
+  color: aqua;
+  padding: 20px;
+  border: 5px solid #263f9b;
+  margin: 10px 10px;
+  min-width: 300px;
+  min-height: 200px;
+  border-radius: 70px 60px 50px 0px;
+  display: inline-block;
+}
+.homework-radius__2 {
+  display: inline-block;
+  background-color: rgb(68, 40, 95);
+  color: aqua;
+  padding: 20px;
+  border: 5px solid #263f9b;
+  margin: 10px 10px;
+  min-width: 300px;
+  min-height: 200px;
+  border-radius: 70px 60px 50px 0px;
+  box-shadow: 20px 20px 20px 20px inset white;
+}
+.homework-display {
+  display: block;
+  text-align: center;
+  margin: 30px 0;
+  padding: 10px;
+}
+.homework-img__display {
+  box-shadow: 5px solid #1e212c;
+  width: 100%;
+  border: 5px dashed yellow;
+}
+.homework-img__display {
+  display: block;
+}
+.homework__visibility {
+  visibility: hidden;
+}
+.homework-overflow p {
+  padding: 20px;
+}
+.overwlow-hiden {
+  color: #4cb162;
+  border: 2px solid salmon;
+  max-height: 50px;
+  overflow: hidden;
+}
+.overwlow-scroll {
+  color: aqua;
+  border: 2px solid salmon;
+  max-height: 100px;
+  overflow: scroll;
+  margin: 20px;
+}
+.overwlow-auto {
+  color: #263f9b;
+  border: 2px solid salmon;
+  max-height: 100px;
+  overflow: auto;
+  margin: 0 0 40px 0;
+}
+.footer__container {
+}
+._container {
+}
+.footer__buttom {
+  text-align: center;
+  padding: 20px;
+  margin: 20px auto;
+  border: 3px solid rgb(79, 107, 51);
+  max-width: 200px;
+  background-color: #1e2c21;
+  color: #263f9b;
+  border-radius: 30px;
+}
+.footer__buttom:hover {
+  background-color: aliceblue;
+}
